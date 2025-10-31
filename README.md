@@ -77,10 +77,28 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats & Insights
+
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=davipaluch&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davipaluch&layout=compact&theme=tokyonight" />
+  <img 
+    height="180em" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=davipaluch&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"
+    alt="Top Languages"
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com?user=davipaluch&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" 
+    alt="GitHub Streak"
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=davipaluch&bg_color=1a1b27&color=70a5fd&line=38bdae&point=bf91f3&area=true&hide_border=true" 
+    alt="Contribution Graph"
+  />
 </p>
 
 ---
